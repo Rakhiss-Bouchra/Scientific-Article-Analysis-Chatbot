@@ -10,6 +10,7 @@ The chatbot supports two NLP models: Hugging Face and OpenAI. Users can choose t
 
 **Document Upload**:
 Users can upload PDF documents for analysis through the user-friendly Streamlit interface. The chatbot extracts information and processes the document based on the selected NLP model.
+
 **Question and Answer**:
 After document analysis, users can ask questions related to the content of the PDF document within the Streamlit app. The chatbot provides answers based on the insights obtained from the chosen NLP model.
 
