@@ -14,4 +14,8 @@ Users can upload PDF documents for analysis through the user-friendly Streamlit 
 **Question and Answer**:
 After document analysis, users can ask questions related to the content of the PDF document within the Streamlit app. The chatbot provides answers based on the insights obtained from the chosen NLP model.
 
+### The application interface:
+
+<img width="920" alt="Interface" src="https://github.com/Rakhiss-Bouchra/Scientific-Article-Analysis-Chatbot/assets/100072520/722f2735-9d8e-4b2c-a60e-e13eb8841603">
+
 
